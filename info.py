@@ -52,7 +52,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "unknown")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # FSUB
-login_channel = environ.get('LOGIN_CHANNEL', "-1002120951308")
+login_channel = environ.get('LOGIN_CHANNEL', "")
 LOGIN_CHANNEL = int(login_channel) if login_channel and id_pattern.search(login_channel) else None
 auth_channel = environ.get('AUTH_CHANNEL', '')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
@@ -77,7 +77,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GOFte-Rz2tcxODg1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+mCMdCb_ymAowZmNl')
 HOW_TO_DOWNLOAD = environ.get('HOW_TO_DOWNLOAD', 'https://t.me/+mCMdCb_ymAowZmNl')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1001606248152"))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1002120951308"))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'DQ_The_File_Donor_Support')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)

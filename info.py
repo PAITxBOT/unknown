@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '10261086'))
 API_HASH = environ.get('API_HASH', '9195dc0591fbdb22b5711bcd1f437dab')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5339266080:AAHDaPS8mPLUHwF85G7siTIBg1eI02-DAuU")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6748379389:AAGof665x9PfnuBqPXCaFq7Frs8SLON6hEQ")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/fb3bf0a82f517ee2ace
 SETTINGS_PICS = (environ.get('SETTINGS_PICS', 'https://graph.org/file/73e4acd0a9f4425fd34be.jpg')).split()
 MONEY_PICS = (environ.get('MONEY_PICS', 'https://graph.org/file/027d27f90fd0478dc5445.jpg https://graph.org/file/c74328a62162f59d37c24.jpg https://graph.org/file/4e358a59a921560c968d6.jpg https://graph.org/file/75c07185548483d1ffb06.jpg https://graph.org/file/12bb3b7d299f1e2a2abd6.jpg https://graph.org/file/97d16089b8c9abda14d02.jpg')).split()
 RULES_PICS = (environ.get('RULES_PICS', 'https://graph.org/file/4752441b16362f2df8e27.jpg https://graph.org/file/e5445f406f428b47556fc.jpg')).split()
-SUPPORT_PICS = (environ.get('SUPPORT_PICS', 'https://graph.org/file/30fc6ea74df988db9b417.jpg')).split()
+SUPPORT_PICS = (environ.get('SUPPORT_PICS', 'https://graph.org/file/17110f5484f35f5bc796f.jpg')).split()
 JOIN_PICS = (environ.get('JOIN_PICS', 'https://graph.org/file/c886730e0a7608a768c8a.jpg')).split()
 
 # Admins, Channels & Users
@@ -64,10 +64,10 @@ JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/c/1845700490/3")
-VERIFY2_URL = environ.get('VERIFY2_URL', "onepagelink.in")
-VERIFY2_API = environ.get('VERIFY2_API', "59d8f4b692be27f966418748423e52cf7b440dff")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'onepagelink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '59d8f4b692be27f966418748423e52cf7b440dff')
+VERIFY2_URL = environ.get('VERIFY2_URL', "bindaaslinks.com")
+VERIFY2_API = environ.get('VERIFY2_API', "b277d0b60b17687440ea562196b37bb142da9d4c")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bindaaslinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'b277d0b60b17687440ea562196b37bb142da9d4c')
 IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "7")

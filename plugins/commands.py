@@ -418,7 +418,7 @@ async def settings(client, message):
         return await message.reply(f"Yᴏᴜ ᴀʀᴇ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ. Usᴇ /connect {message.chat.id} ɪɴ PM")
     chat_type = message.chat.type
 
-    """if chat_type == enums.ChatType.PRIVATE:
+    if chat_type == enums.ChatType.PRIVATE:
         grpid = await active_connection(str(userid))
         if grpid is not None:
             grp_id = grpid
@@ -437,15 +437,15 @@ async def settings(client, message):
         title = message.chat.title
 
     else:
-        return"""
+        return
 
-    """st = await client.get_chat_member(grp_id, userid)
+    st = await client.get_chat_member(grp_id, userid)
     if (
             st.status != enums.ChatMemberStatus.ADMINISTRATOR
             and st.status != enums.ChatMemberStatus.OWNER
             and str(userid) not in ADMINS
     ):
-        return"""
+        return
     
     settings = await get_settings(grp_id)
 

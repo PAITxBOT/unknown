@@ -312,31 +312,26 @@ Size: {file_size}</b></i>"""
 
 🎭 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/OMGxMovies'>ᴏᴍɢ x ᴍᴏᴠɪᴇs</a></b>"""
 
-    SUPPORT_TXT = """<b>🥀 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴍɢ x ᴍᴏᴠɪᴇs ✨
+    SUPPORT_TXT = """<b>𝙳𝚎𝚊𝚛 𝙵𝚛𝚒𝚎𝚗𝚍𝚜 🎭,
 
-ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 👇
+Welcome to MovieHut 🎬🍿
 
-• <a href=https://t.me/OMGxMovies>ᴏᴍɢ x ᴍᴏᴠɪᴇs-[ᴍᴀɪɴ]</a>
+This Channel has registered on the bot server, hence it will remain as Main Channel and No direct files will be uploaded hereafter.
 
-• <a href=https://t.me/OMGxLinks>ᴏᴍɢ x ʟɪɴᴋs</a>
+🏠 Join Our Group Here ⬇️
 
-• <a href=https://t.me/+muH4XXiXCcw4OTU1>ᴏᴍɢ x ᴍᴏᴠɪᴇs-[ғɪʟᴇ ᴄʜᴀɴɴᴇʟ]</a>
-
-• <a href=https://t.me/+Q6n78w-51mcwZjhl>ᴛᴀᴍɪʟ ᴡᴇʙ-sᴇʀɪᴇs</a>
-
-• <a href=https://t.me/+clfkYSrhQ7NhZmM1>ᴍᴀʀᴠᴇʟ ᴄᴏʟʟᴇᴄᴛɪᴏɴ</a>
-
-• <a href=https://t.me/+lhquQw8GtPU2OWI1>ᴅᴄ ᴄᴏʟʟᴇᴄᴛɪᴏɴ</a>
-
-• <a href=https://t.me/NarutoTamil_HD>ɴᴀʀᴜᴛᴏ ᴛᴀᴍɪʟ</a>
-
-• <a href=https://t.me/New_Movies_Hd_M>ᴛᴀᴍɪʟ 𝟦ᴋ & 𝟣𝟢𝟪𝟢Ꭾ ᴍᴏᴠɪᴇs</a>
-
-    
-• <a href=https://t.me/OMGxMovies/467>ᴍᴏᴠɪᴇ ʀᴇ𝚀ᴜᴇꜱᴛ ɢʀᴏᴜᴩ</a>
+<a href=https://t.me/+wXqt6kDQIPkwZTI0>💎Movie Request Group💎</a>
 
 
-• ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ :<a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ</a></b>"""
+<a href=https://t.me/OMGxLinks>ᴏᴍɢ x ʟɪɴᴋs</a>
+
+<a href=https://t.me/Team_MovieHut>🔸 MAIN CHANNEL </a>
+
+<a href=https://t.me/+h5iJ8Z4TQ8M0NzY0>🔸 MOVIES & SERIES</a>
+
+<a href=https://t.me/itz_MovieHut>🔸 BACKUP CHANNEL </a>
+
+<a href=https://t.me/+FuElcvSw939iM2Vk>🔸 NEW SERIES</a></b>"""
 
     YT_TXT = """<b>• ɴᴀᴍᴇ ›› ᴏᴍɢ x ᴍᴏᴠɪᴇs
 • ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ›› <a href=https://www.youtube.com/@OMGxMovies>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
